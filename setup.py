@@ -33,6 +33,7 @@ if os.path.exists(bin_license):
         pass
 
 setup(
+    version="6.1.0",
     name='pymediainfo',
     author='Louis Sautier',
     author_email='sautier.louis@gmail.com',
